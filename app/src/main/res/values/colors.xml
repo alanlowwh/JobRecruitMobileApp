@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="post_job_button">#25d4fa</color>
+    <color name="toolbar_color">#0d134b</color>
+</resources>
